@@ -3,6 +3,9 @@
   src: url('fonts/Gidole-Regular.otf')
   src:
 url("fonts/Gidole-Regular.eot") format("eot"),
+url("fonts/Gidole-Regular.ttf") format("truetype"),
+url("fonts/Gidole-Regular.woff") format("woff"),
+url("fonts/Gidole-Regular.woff2") format("woff2"),
 url("fonts/Gidole-Regular.svg") format("svg");
 }
 
