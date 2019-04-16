@@ -19,7 +19,7 @@ body {
   float: left;
   display: block;
   color: #ffffff;
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   text-align: center;
   padding: 14px 16px;
 }
@@ -37,7 +37,7 @@ body {
   left: 110px;
   width: 312px;
   height: 386px;
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 113px;
   font-weight: normal;
   font-style: normal;
