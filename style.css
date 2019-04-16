@@ -1,0 +1,101 @@
+@@font-face {
+  font-family: "Gidole"
+  src: url('fonts/Gidole-Regular.otf')
+}
+
+body {
+  background-color: black ;
+}
+
+.title {
+  position: absolute;
+  left: 110px;
+  top: 8px;
+  width: 309px;
+  height: 34px;
+  font-family: Gidole;
+  font-size: 32px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.latestProject {
+  position: absolute;
+  top: 60px;
+  left: 110px;
+  width: 312px;
+  height: 386px;
+  font-family: Gidole;
+  font-size: 113px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.latestProjectTitle {
+  position: absolute;
+  top: 158px;
+  left: 720px;
+  width: 208px;
+  height: 172px;
+  text-decoration: none;
+  font-family: Gidole;
+  font-size: 80px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+
+.latestProjectDesc {
+  position: absolute;
+  left: 1090px;
+  top: 164px;
+  width: 246px;
+  height: 310px;
+  font-family: Gidole;
+  font-size: 32px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+#line1 {
+  position: absolute;
+  top: 565px;
+  left: 110px;
+  width: 1226px;
+  height: 0px;
+  border: solid 3.5px #404040;
+}
+
+#bannerRect {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 90px;
+  background-color: rgba(64, 64, 64, 0.5);
+}
+
+#latestProjectRect {
+  position: absolute;
+  top: 165px;
+  left: 698px;
+  width: 350px;
+  height: 300px;
+  background-color: rgba(64, 64, 64, 0.5);
+}
