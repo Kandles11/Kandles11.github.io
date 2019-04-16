@@ -1,6 +1,9 @@
 @@font-face {
   font-family: "Gidole"
   src: url('fonts/Gidole-Regular.otf')
+  src:
+url("fonts/Gidole-Regular.eot") format("eot"),
+url("fonts/Gidole-Regular.svg") format("svg")
 }
 
 body {
