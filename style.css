@@ -1,7 +1,7 @@
 @@font-face {
   font-family: "Gidole"
     src:  url('fonts/Gidole-Regular.otf')
-    src:  url('fonts/Gidole-Regular.eot') format('eot'),
+    src:  url('fonts/Gidole-Regular.eot') format('embedded-opentype'),
           url('fonts/Gidole-Regular.ttf') format('truetype'),
           url('fonts/Gidole-Regular.woff') format('woff'),
           url('fonts/Gidole-Regular.woff2') format('woff2'),
