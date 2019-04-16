@@ -1,11 +1,5 @@
 @font-face {
-  font-family: "Gidole"
-    src:  url('fonts/Gidole-Regular.otf')
-    src:  url('fonts/Gidole-Regular.eot') format('embedded-opentype'),
-          url('fonts/Gidole-Regular.ttf') format('truetype'),
-          url('fonts/Gidole-Regular.woff') format('woff'),
-          url('fonts/Gidole-Regular.woff2') format('woff2'),
-          url('fonts/Gidole-Regular.svg') format('svg');
+  font-family: 'Poppins', sans-serif;
 }
 
 body {
@@ -25,7 +19,7 @@ body {
   float: left;
   display: block;
   color: #ffffff;
-  font-family: Gidole;
+  font-family: Poppins;
   text-align: center;
   padding: 14px 16px;
 }
@@ -43,7 +37,7 @@ body {
   left: 110px;
   width: 312px;
   height: 386px;
-  font-family: Gidole;
+  font-family: Poppins;
   font-size: 113px;
   font-weight: normal;
   font-style: normal;
@@ -60,7 +54,7 @@ body {
   width: 208px;
   height: 172px;
   text-decoration: none;
-  font-family: Gidole;
+  font-family: Poppins;
   font-size: 80px;
   font-weight: normal;
   font-style: normal;
@@ -76,7 +70,7 @@ body {
   top: 140px;
   width: 246px;
   height: 310px;
-  font-family: Gidole;
+  font-family: Poppins;
   font-size: 32px;
   font-weight: normal;
   font-style: normal;
@@ -98,7 +92,7 @@ body {
   left: 110px;
   width: 366px;
   height: 244px;
-  font-family: Gidole;
+  font-family: Poppins;
   font-size: 113px;
   font-weight: normal;
   font-style: normal;
@@ -115,7 +109,7 @@ body {
   width: 208px;
   height: 172px;
   text-decoration: none;
-  font-family: Gidole;
+  font-family: Poppins;
   font-size: 80px;
   font-weight: normal;
   font-style: normal;
@@ -131,7 +125,7 @@ body {
   top: 640px;
   width: 246px;
   height: 310px;
-  font-family: Gidole;
+  font-family: Poppins;
   font-size: 32px;
   font-weight: normal;
   font-style: normal;
