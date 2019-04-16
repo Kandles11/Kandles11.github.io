@@ -38,7 +38,7 @@ body {
   width: 312px;
   height: 386px;
   font-family: 'Poppins', sans-serif;
-  font-size: 113px;
+  font-size: 90px;
   font-weight: normal;
   font-style: normal;
   font-stretch: normal;
@@ -54,7 +54,7 @@ body {
   width: 208px;
   height: 172px;
   text-decoration: none;
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 80px;
   font-weight: normal;
   font-style: normal;
@@ -70,7 +70,7 @@ body {
   top: 140px;
   width: 246px;
   height: 310px;
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 32px;
   font-weight: normal;
   font-style: normal;
@@ -92,8 +92,8 @@ body {
   left: 110px;
   width: 366px;
   height: 244px;
-  font-family: Poppins;
-  font-size: 113px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 90px;
   font-weight: normal;
   font-style: normal;
   font-stretch: normal;
@@ -109,7 +109,7 @@ body {
   width: 208px;
   height: 172px;
   text-decoration: none;
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 80px;
   font-weight: normal;
   font-style: normal;
@@ -125,7 +125,7 @@ body {
   top: 640px;
   width: 246px;
   height: 310px;
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 32px;
   font-weight: normal;
   font-style: normal;
