@@ -10,9 +10,22 @@ body {
   }
 
 h1 {
-  font-size: 113px;
+  font-size: 80px;
 }
 
 h2 {
-  font-size: 80px;
+  font-size: 40px;
+}
+
+.col-md-4 {
+  background-color: #40404080;
+}
+
+.divider {
+  height: 1px;
+  width:75%;
+  display:block; /* for use on default inline elements like span */
+  margin: 9px 0;
+  overflow: hidden;
+  background-color: #e5e5e5;
 }
