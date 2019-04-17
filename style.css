@@ -1,172 +1,31 @@
 @font-face {
-  font-family: 'Poppins', sans-serif;
+  font-family: Gidole;
+  src: url('fonts/Gidole-Regular.otf')
 }
 
 body {
-  background-color: black;
+  background: black !important;
+  font-family: "Gidole";
+  color: white;
+  }
+
+h1 {
+  font-size: 80px;
 }
 
-
-.header {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  height: 90px;
-  background-color: rgba(25, 25, 25, 0.95);
+h2 {
+  font-size: 40px;
 }
 
-.header h1 {
-  float: left;
-  display: block;
-  color: #ffffff;
-  font-family: 'Poppins', sans-serif;
-  text-align: center;
-  padding: 14px 16px;
+.col-md-4 {
+  background-color: #40404080;
 }
 
-.latestProject {
-  display: block;
-  margin-top: 200px;
-  height: 200;
-  width: 100%;
-}
-
-.latestProject h1 {
-  position: absolute;
-  top: 60px;
-  left: 110px;
-  width: 312px;
-  height: 386px;
-  font-family: 'Poppins', sans-serif;
-  font-size: 90px;
-  font-weight: normal;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  color: #ffffff;
-}
-
-.latestProject a {
-  position: absolute;
-  top: 158px;
-  left: 720px;
-  width: 208px;
-  height: 172px;
-  text-decoration: none;
-  font-family: 'Poppins', sans-serif;
-  font-size: 70px;
-  font-weight: normal;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  color: #ffffff;
-}
-
-.latestProject h2 {
-  position: absolute;
-  left: 1090px;
-  top: 140px;
-  width: 246px;
-  height: 310px;
-  font-family: 'Poppins', sans-serif;
-  font-size: 32px;
-  font-weight: normal;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  color: #ffffff;
-}
-
-.featuredProject {
-  margin-top: 200px;
-  height: 200;
-  width: 100%;
-}
-
-.featuredProject h1 {
-  position: absolute;
-  top: 565px;
-  left: 110px;
-  width: 366px;
-  height: 244px;
-  font-family: 'Poppins', sans-serif;
-  font-size: 90px;
-  font-weight: normal;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  color: #ffffff;
-}
-
-.featuredProject a {
-  position: absolute;
-  top: 660px;
-  left: 720px;
-  width: 208px;
-  height: 172px;
-  text-decoration: none;
-  font-family: 'Poppins', sans-serif;
-  font-size: 70px;
-  font-weight: normal;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  color: #ffffff;
-}
-
-.featuredProject h2 {
-  position: absolute;
-  left: 1090px;
-  top: 640px;
-  width: 246px;
-  height: 310px;
-  font-family: 'Poppins', sans-serif;
-  font-size: 32px;
-  font-weight: normal;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  color: #ffffff;
-}
-
-#featuredProjectRect {
-  position: absolute;
-  top: 661px;
-  left: 698px;
-  width: 350px;
-  height: 300px;
-  background-color: rgba(64, 64, 64, 0.5);
-}
-
-#latestProjectRect {
-  position: absolute;
-  top: 165px;
-  left: 698px;
-  width: 350px;
-  height: 300px;
-  background-color: rgba(64, 64, 64, 0.5);
-}
-
-#line1 {
-  position: absolute;
-  top: 565px;
-  left: 110px;
-  width: 1226px;
-  height: 0px;
-  border: solid 3.5px #404040;
-}
-
-#line2 {
-  position: absolute;
-  top: 1050px;
-  left: 110px;
-  width: 1226px;
-  height: 0px;
-  border: solid 3.5px #404040;
+.divider {
+  height: 1px;
+  width:75%;
+  display:block; /* for use on default inline elements like span */
+  margin: 9px 0;
+  overflow: hidden;
+  background-color: #e5e5e5;
 }
